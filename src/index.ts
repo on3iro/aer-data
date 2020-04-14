@@ -103,10 +103,10 @@ const NORMALIZEDDATA = EXPANSIONS.reduce(
 )
 
 export default {
-  DATA,
-  NORMALIZEDDATA,
-  DEFAULTSUPPLYCOUNT,
-  MARKETSETUPS,
-  TURNORDERSETUPS,
-  TURNORDERCARDS,
+  data: DATA,
+  normalizedData: NORMALIZEDDATA,
+  defaultSupplyCount: DEFAULTSUPPLYCOUNT,
+  marketsetups: MARKETSETUPS,
+  turnordersetups: TURNORDERSETUPS,
+  turnordercards: TURNORDERCARDS,
 }
