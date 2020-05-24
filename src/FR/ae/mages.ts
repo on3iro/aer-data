@@ -1,6 +1,6 @@
-import { Mages } from 'aer-types'
+import { Mage } from 'aer-types'
 
-export const mages: Mages[] = [
+export const mages: Mage[] = [
   {
     "expansion": "AE",
     "name": "Adelheim",
