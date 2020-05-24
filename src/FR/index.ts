@@ -5,9 +5,11 @@ import { depthsData } from './depths'
 import { namelessData } from './nameless'
 import { weData } from './we'
 
-export const DATA: IExpansionData = {
+const FR: IExpansionData = {
   AE: aeData,
   Depths: depthsData,
   Nameless: namelessData,
   WE: weData,
 }
+
+export default FR
