@@ -367,9 +367,10 @@ effect: `
 It can contain some of the template snipptes described above.
 
 
+## Build
 
+Make sure that you have typescript installed and then run the following command from the project root:
 
-
-
-
-
+```
+tsc
+```
