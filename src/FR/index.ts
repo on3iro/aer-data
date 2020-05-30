@@ -1,9 +1,9 @@
 import { IExpansionData } from 'aer-types'
 
-import { aeData } from './ae'
-import { depthsData } from './depths'
-import { namelessData } from './nameless'
-import { weData } from './we'
+import { aeData } from './aeonsEnd'
+import { depthsData } from './theDepths'
+import { namelessData } from './theNameless'
+import { weData } from './warEternal'
 
 const FR: IExpansionData = {
   AE: aeData,

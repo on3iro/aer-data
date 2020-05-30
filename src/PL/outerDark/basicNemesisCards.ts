@@ -2,7 +2,7 @@ import { BasicNemesisCard } from 'aer-types'
 
 export const basicNemesisCards: BasicNemesisCard[] = [
   {
-    id: 'LabyrinthWisp',
+    id: 'LabyrinthWisp-OD',
     expansion: 'OD',
     tier: 1,
     type: 'Minion',
@@ -19,7 +19,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Assail',
+    id: 'Assail-OD',
     expansion: 'OD',
     tier: 2,
     type: 'Attack',
@@ -33,7 +33,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'DireAbbatoir',
+    id: 'DireAbbatoir-OD',
     expansion: 'OD',
     tier: 3,
     type: 'Power',

@@ -2,7 +2,7 @@ import { BasicNemesisCard } from 'aer-types'
 
 export const basicNemesisCards: BasicNemesisCard[] = [
   {
-    id: 'Menace',
+    id: 'Menace-promos',
     expansion: 'promos',
     tier: 1,
     type: 'Attack',
@@ -14,7 +14,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'GlyphEnigma',
+    id: 'GlyphEnigma-promos',
     expansion: 'promos',
     tier: 1,
     type: 'Minion',
@@ -28,7 +28,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'GravitySplinter',
+    id: 'GravitySplinter-promos',
     expansion: 'promos',
     tier: 2,
     type: 'Power',
@@ -43,7 +43,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'WorldPurge',
+    id: 'WorldPurge-promos',
     expansion: 'promos',
     tier: 3,
     type: 'Power',
@@ -62,7 +62,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'BaneSire',
+    id: 'BaneSire-promos',
     expansion: 'promos',
     tier: 1,
     type: 'Minion',
@@ -75,7 +75,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Decimate',
+    id: 'Decimate-promos',
     expansion: 'promos',
     tier: 1,
     type: 'Attack',
@@ -91,7 +91,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'SpiritCage',
+    id: 'SpiritCage-promos',
     expansion: 'promos',
     tier: 1,
     type: 'Power',
@@ -106,7 +106,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'BanefulCrux',
+    id: 'BanefulCrux-promos',
     expansion: 'promos',
     tier: 2,
     type: 'Power',
@@ -121,7 +121,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Negate',
+    id: 'Negate-promos',
     expansion: 'promos',
     tier: 2,
     type: 'Attack',
@@ -139,7 +139,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Gallowskulk',
+    id: 'Gallowskulk-promos',
     expansion: 'promos',
     tier: 3,
     type: 'Minion',
@@ -152,7 +152,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Unmake',
+    id: 'Unmake-promos',
     expansion: 'promos',
     tier: 3,
     type: 'Attack',

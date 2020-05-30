@@ -2,7 +2,7 @@ import { BasicNemesisCard } from 'aer-types'
 
 export const basicNemesisCards: BasicNemesisCard[] = [
   {
-    id: 'DrillbeakWurm',
+    id: 'DrillbeakWurm-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Minion',
@@ -15,7 +15,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'CarriodeColony',
+    id: 'CarriodeColony-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Minion',
@@ -29,7 +29,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'ChaosOrb',
+    id: 'ChaosOrb-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Power',
@@ -44,7 +44,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Disorient',
+    id: 'Disorient-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Attack',
@@ -56,7 +56,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Rend',
+    id: 'Rend-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Attack',
@@ -68,7 +68,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'UnnervingHowl',
+    id: 'UnnervingHowl-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Power',
@@ -81,7 +81,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'CeaselessDarkness',
+    id: 'CeaselessDarkness-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Power',
@@ -96,7 +96,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'AetherShock',
+    id: 'AetherShock-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Attack',
@@ -108,7 +108,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Decimate',
+    id: 'Decimate-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Attack',
@@ -122,7 +122,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'BlindEnigma',
+    id: 'BlindEnigma-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Minion',
@@ -135,7 +135,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'PlanarCollision',
+    id: 'PlanarCollision-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Power',
@@ -150,7 +150,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'SpiritSnare',
+    id: 'SpiritSnare-NA',
     expansion: 'NA',
     tier: 1,
     type: 'Power',
@@ -165,7 +165,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Dement',
+    id: 'Dement-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Attack',
@@ -177,7 +177,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Decay',
+    id: 'Decay-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Attack',
@@ -189,7 +189,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'CullingScythe',
+    id: 'CullingScythe-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Power',
@@ -204,7 +204,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Fugue',
+    id: 'Fugue-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Attack',
@@ -216,7 +216,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'VolcanicZala',
+    id: 'VolcanicZala-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Minion',
@@ -231,7 +231,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'PortalGuardian',
+    id: 'PortalGuardian-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Minion',
@@ -244,7 +244,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'ObliteratingMeteor',
+    id: 'ObliteratingMeteor-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Power',
@@ -259,7 +259,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Mutilate',
+    id: 'Mutilate-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Attack',
@@ -271,7 +271,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Needlemaw',
+    id: 'Needlemaw-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Minion',
@@ -284,7 +284,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'MorbidGyre',
+    id: 'MorbidGyre-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Power',
@@ -299,7 +299,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'GravitySplinter',
+    id: 'GravitySplinter-NA',
     expansion: 'NA',
     tier: 2,
     type: 'Power',
@@ -314,7 +314,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Eliminate',
+    id: 'Eliminate-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Attack',
@@ -330,7 +330,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'CrushingStorm',
+    id: 'CrushingStorm-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Power',
@@ -345,7 +345,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'GnashingMaw',
+    id: 'GnashingMaw-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Power',
@@ -358,7 +358,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Disperse',
+    id: 'Disperse-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Attack',
@@ -370,7 +370,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Gore',
+    id: 'Gore-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Attack',
@@ -382,7 +382,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'HexofDestruction',
+    id: 'HexofDestruction-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Power',
@@ -397,7 +397,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'EternalWatcher',
+    id: 'EternalWatcher-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Minion',
@@ -410,7 +410,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Sunder',
+    id: 'Sunder-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Attack',
@@ -424,7 +424,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Topple',
+    id: 'Topple-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Attack',
@@ -436,7 +436,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'MonstrosityofOmens',
+    id: 'MonstrosityofOmens-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Minion',
@@ -452,7 +452,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'DoomAegis',
+    id: 'DoomAegis-NA',
     expansion: 'NA',
     tier: 3,
     type: 'Power',
