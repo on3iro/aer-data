@@ -2,7 +2,7 @@ import { BasicNemesisCard } from 'aer-types'
 
 export const basicNemesisCards: BasicNemesisCard[] = [
   {
-    id: 'Ambush',
+    id: 'Ambush-Legacy',
     expansion: 'Legacy',
     tier: 1,
     type: 'Attack',
@@ -14,7 +14,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Conduct',
+    id: 'Conduct-Legacy',
     expansion: 'Legacy',
     tier: 1,
     type: 'Attack',
@@ -26,7 +26,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'CreepingCurse',
+    id: 'CreepingCurse-Legacy',
     expansion: 'Legacy',
     tier: 1,
     type: 'Power',
@@ -41,7 +41,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Daze',
+    id: 'Daze-Legacy',
     expansion: 'Legacy',
     tier: 1,
     type: 'Attack',
@@ -53,7 +53,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'EndlessChasm',
+    id: 'EndlessChasm-Legacy',
     expansion: 'Legacy',
     tier: 1,
     type: 'Power',
@@ -68,7 +68,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'AetherExtract',
+    id: 'AetherExtract-Legacy',
     expansion: 'Legacy',
     tier: 1,
     type: 'Power',
@@ -81,7 +81,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'RavenousLeviathan',
+    id: 'RavenousLeviathan-Legacy',
     expansion: 'Legacy',
     tier: 1,
     type: 'Minion',
@@ -94,7 +94,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'SpineThresher',
+    id: 'SpineThresher-Legacy',
     expansion: 'Legacy',
     tier: 1,
     type: 'Minion',
@@ -108,7 +108,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'CausticCocoon',
+    id: 'CausticCocoon-Legacy',
     expansion: 'Legacy',
     tier: 2,
     type: 'Minion',
@@ -121,7 +121,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Sap',
+    id: 'Sap-Legacy',
     expansion: 'Legacy',
     tier: 2,
     type: 'Attack',
@@ -135,7 +135,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Tremor',
+    id: 'Tremor-Legacy',
     expansion: 'Legacy',
     tier: 2,
     type: 'Power',
@@ -150,7 +150,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Drain',
+    id: 'Drain-Legacy',
     expansion: 'Legacy',
     tier: 2,
     type: 'Attack',
@@ -162,7 +162,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'HummingHive',
+    id: 'HummingHive-Legacy',
     expansion: 'Legacy',
     tier: 2,
     type: 'Minion',
@@ -176,7 +176,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Hunted',
+    id: 'Hunted-Legacy',
     expansion: 'Legacy',
     tier: 2,
     type: 'Attack',
@@ -188,7 +188,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'TemptingOffer',
+    id: 'TemptingOffer-Legacy',
     expansion: 'Legacy',
     tier: 2,
     type: 'Power',
@@ -203,7 +203,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Annihilate',
+    id: 'Annihilate-Legacy',
     expansion: 'Legacy',
     tier: 3,
     type: 'Attack',
@@ -215,7 +215,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'FacetOgre',
+    id: 'FacetOgre-Legacy',
     expansion: 'Legacy',
     tier: 3,
     type: 'Minion',
@@ -229,7 +229,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'FlashofDecay',
+    id: 'FlashofDecay-Legacy',
     expansion: 'Legacy',
     tier: 3,
     type: 'Power',
@@ -242,7 +242,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'GatheringStorm',
+    id: 'GatheringStorm-Legacy',
     expansion: 'Legacy',
     tier: 3,
     type: 'Power',
@@ -257,7 +257,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'MaddeningSpectre',
+    id: 'MaddeningSpectre-Legacy',
     expansion: 'Legacy',
     tier: 3,
     type: 'Minion',
@@ -271,7 +271,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Scatter',
+    id: 'Scatter-Legacy',
     expansion: 'Legacy',
     tier: 3,
     type: 'Attack',
@@ -283,7 +283,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Suffocate',
+    id: 'Suffocate-Legacy',
     expansion: 'Legacy',
     tier: 3,
     type: 'Attack',

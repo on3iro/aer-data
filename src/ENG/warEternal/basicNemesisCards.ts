@@ -2,7 +2,7 @@ import { BasicNemesisCard } from 'aer-types'
 
 export const basicNemesisCards: BasicNemesisCard[] = [
   {
-    id: 'Afflict',
+    id: 'Afflict-WE',
     expansion: 'WE',
     tier: 1,
     type: 'Attack',
@@ -14,7 +14,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'CatacombDrone',
+    id: 'CatacombDrone-WE',
     expansion: 'WE',
     tier: 1,
     type: 'Minion',
@@ -27,7 +27,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Encroach',
+    id: 'Encroach-WE',
     expansion: 'WE',
     tier: 1,
     type: 'Attack',
@@ -39,7 +39,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'HeartofNothing',
+    id: 'HeartofNothing-WE',
     expansion: 'WE',
     tier: 1,
     type: 'Power',
@@ -56,7 +56,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'HowlingSpinners',
+    id: 'HowlingSpinners-WE',
     expansion: 'WE',
     tier: 1,
     type: 'Minion',
@@ -69,7 +69,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'NightUnending',
+    id: 'NightUnending-WE',
     expansion: 'WE',
     tier: 1,
     type: 'Power',
@@ -82,7 +82,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Nix',
+    id: 'Nix-WE',
     expansion: 'WE',
     tier: 1,
     type: 'Attack',
@@ -94,7 +94,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'PlanarCollision',
+    id: 'PlanarCollision-WE',
     expansion: 'WE',
     tier: 1,
     type: 'Power',
@@ -109,7 +109,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Thrash',
+    id: 'Thrash-WE',
     expansion: 'WE',
     tier: 1,
     type: 'Attack',
@@ -121,7 +121,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'AphoticSun',
+    id: 'AphoticSun-WE',
     expansion: 'WE',
     tier: 2,
     type: 'Power',
@@ -136,7 +136,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'ChaosFlail',
+    id: 'ChaosFlail-WE',
     expansion: 'WE',
     tier: 2,
     type: 'Power',
@@ -151,7 +151,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'MageEnder',
+    id: 'MageEnder-WE',
     expansion: 'WE',
     tier: 2,
     type: 'Minion',
@@ -164,7 +164,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Mangleroot',
+    id: 'Mangleroot-WE',
     expansion: 'WE',
     tier: 2,
     type: 'Minion',
@@ -177,7 +177,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'MorbidGyre',
+    id: 'MorbidGyre-WE',
     expansion: 'WE',
     tier: 2,
     type: 'Power',
@@ -192,7 +192,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Mutilate',
+    id: 'Mutilate-WE',
     expansion: 'WE',
     tier: 2,
     type: 'Attack',
@@ -204,7 +204,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'NullScion',
+    id: 'NullScion-WE',
     expansion: 'WE',
     tier: 2,
     type: 'Minion',
@@ -217,7 +217,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Smite',
+    id: 'Smite-WE',
     expansion: 'WE',
     tier: 2,
     type: 'Attack',
@@ -230,7 +230,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
   },
 
   {
-    id: 'ApocalypseRitual',
+    id: 'ApocalypseRitual-WE',
     expansion: 'WE',
     tier: 3,
     type: 'Power',
@@ -245,7 +245,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Banish',
+    id: 'Banish-WE',
     expansion: 'WE',
     tier: 3,
     type: 'Attack',
@@ -257,7 +257,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'CataclysmicFate',
+    id: 'CataclysmicFate-WE',
     expansion: 'WE',
     tier: 3,
     type: 'Power',
@@ -272,7 +272,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'MonstrosityofOmens',
+    id: 'MonstrosityofOmens-WE',
     expansion: 'WE',
     tier: 3,
     type: 'Minion',
@@ -288,7 +288,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Engulf',
+    id: 'Engulf-WE',
     expansion: 'WE',
     tier: 3,
     type: 'Attack',
@@ -300,7 +300,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Quell',
+    id: 'Quell-WE',
     expansion: 'WE',
     tier: 3,
     type: 'Attack',
@@ -314,7 +314,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Throttle',
+    id: 'Throttle-WE',
     expansion: 'WE',
     tier: 3,
     type: 'Attack',
@@ -326,7 +326,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'WitheringBeam',
+    id: 'WitheringBeam-WE',
     expansion: 'WE',
     tier: 3,
     type: 'Power',

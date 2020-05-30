@@ -2,7 +2,7 @@ import { BasicNemesisCard } from 'aer-types'
 
 export const basicNemesisCards: BasicNemesisCard[] = [
   {
-    id: 'BladeStorm',
+    id: 'BladeStorm-BS',
     expansion: 'BS',
     tier: 1,
     type: 'Attack',
@@ -14,7 +14,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'HexofVulnerability',
+    id: 'HexofVulnerability-BS',
     expansion: 'BS',
     tier: 1,
     type: 'Power',
@@ -29,7 +29,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'ThrongCommander',
+    id: 'ThrongCommander-BS',
     expansion: 'BS',
     tier: 1,
     type: 'Minion',
@@ -43,7 +43,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Divert',
+    id: 'Divert-BS',
     expansion: 'BS',
     tier: 2,
     type: 'Attack',
@@ -55,7 +55,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Depreciate',
+    id: 'Depreciate-BS',
     expansion: 'BS',
     tier: 2,
     type: 'Power',
@@ -70,7 +70,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'ArmoredHaze',
+    id: 'ArmoredHaze-BS',
     expansion: 'BS',
     tier: 2,
     type: 'Minion',
@@ -84,7 +84,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'Muster',
+    id: 'Muster-BS',
     expansion: 'BS',
     tier: 3,
     type: 'Attack',
@@ -96,7 +96,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'BreachTunnel',
+    id: 'BreachTunnel-BS',
     expansion: 'BS',
     tier: 3,
     type: 'Power',
@@ -109,7 +109,7 @@ export const basicNemesisCards: BasicNemesisCard[] = [
     `,
   },
   {
-    id: 'MailedShade',
+    id: 'MailedShade-BS',
     expansion: 'BS',
     tier: 3,
     type: 'Minion',
