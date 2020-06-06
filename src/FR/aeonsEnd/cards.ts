@@ -49,7 +49,7 @@ export const cards: ICard[] = [
   {
     "type": "Spell",
     "expansion": "AE",
-    "name": "Éclari enragé",
+    "name": "Éclair enragé",
     "id": "FeralLightning",
     "cost": 5,
     "effect": "<p>\nCe sort peut être préparé sur une brèche fermée sans qu'elle doive être stabilisée.<br/><br/>\n<b>Lancer :</b> Infligez 3 dégâts.\n</p>",
@@ -76,7 +76,7 @@ export const cards: ICard[] = [
   {
     "type": "Gem",
     "expansion": "AE",
-    "name": "Opal brûlante",
+    "name": "Opale brûlante",
     "id": "BurningOpal",
     "cost": 5,
     "effect": "<p>\nGagnez 3 <span class=\"aether\">&AElig;</span>.<br/>Vous pouvez défausser une carte de votre main pour qu'un allié pioche une carte.\n</p>",

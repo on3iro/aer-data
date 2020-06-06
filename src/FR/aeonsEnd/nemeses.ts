@@ -7,8 +7,8 @@ export const nemeses: Nemesis[] = [
     "id": "CarapaceQueen",
     "health": 60,
     "difficulty": 3,
-    "expeditionRating": 1,
-    additionalInfo: '',
+    "additionalInfo": "",
+    "expeditionRating": 1
   },
   {
     "expansion": "AE",
@@ -16,7 +16,7 @@ export const nemeses: Nemesis[] = [
     "id": "CrookedMask",
     "health": 70,
     "difficulty": 5,
-    additionalInfo: '',
+    "additionalInfo": "",
     "expeditionRating": 2
   },
   {
@@ -25,7 +25,7 @@ export const nemeses: Nemesis[] = [
     "id": "PrinceOfGluttons",
     "health": 70,
     "difficulty": 5,
-    additionalInfo: '',
+    "additionalInfo": "",
     "expeditionRating": 2
   },
   {
@@ -34,7 +34,7 @@ export const nemeses: Nemesis[] = [
     "id": "Rageborne",
     "health": 70,
     "difficulty": 2,
-    additionalInfo: '',
+    "additionalInfo": "",
     "expeditionRating": 1
   },
 ]
