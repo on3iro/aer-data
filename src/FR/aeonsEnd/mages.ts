@@ -15,7 +15,7 @@ export const mages: Mage[] = [
         "name": "Éclat d'améthyste",
         "id": "AmethystShard",
         "cost": 0,
-        "effect": "<p>\nGagnez 1 <span class=\"aether\">&AElig;</span>.<br/>Un allié peut piocher une carte, puis défausser une carte de sa main.\n</p>",
+        "effect": "<p>\nGagnez 1 <span class=\"aether\">&AElig;</span>.<br/>\nUn allié peut piocher une carte, puis défausser une carte de sa main.\n</p>",
         "keywords": []
       }
     ]
@@ -34,7 +34,7 @@ export const mages: Mage[] = [
         "name": "Lumière enterrée",
         "id": "BuriedLight",
         "cost": 0,
-        "effect": "<p>\nInfligez 1 dégât. Gagnez 1 <span class=\"aether\">&AElig;</span>.\n</p>",
+        "effect": "<p>\n<b>Lancer :</b> Infligez 1 dégât. Gagnez 1 <span class=\"aether\">&AElig;</span>.\n</p>",
         "keywords": []
       }
     ]
@@ -53,7 +53,7 @@ export const mages: Mage[] = [
         "name": "Éclat de pierre de lune",
         "id": "MoonstoneShard",
         "cost": 0,
-        "effect": "<p>\nGagnez 1 <span class=\"aether\">&AElig;</span>.<br/>Gagnez 1 <span class=\"aether\">&AElig;</span> additionnel qui ne peut être utilisé que pour acquérir une Gemme.\n</p>",
+        "effect": "<p>\nGagnez 1 <span class=\"aether\">&AElig;</span>.<br/>\nGagnez 1 <span class=\"aether\">&AElig;</span> additionnel qui ne peut être utilisé que pour acquérir une Gemme.\n</p>",
         "keywords": []
       }
     ]
@@ -91,7 +91,7 @@ export const mages: Mage[] = [
         "name": "Éclat de quartz",
         "id": "QuartzShard",
         "cost": 0,
-        "effect": "<p>\nGagnez 1 <span class=\"aether\">&AElig;</span>.<br/>Révélez la 1re carte de la pioche d'ordre du tour. Vous pouvez placer cette carte au-dessus ou en dessous de la pioche d'ordre du tour.<br/>Si vous avez révélé la carte d'ordre tour d'un joueur, gagnez 1 <span class=\"aether\">&AElig;</span> supplémentaire.\n</p>",
+        "effect": "<p>\nGagnez 1 <span class=\"aether\">&AElig;</span>.<br/>\nRévélez la 1re carte de la pioche d'ordre du tour. Vous pouvez placer cette carte au-dessus ou en dessous de la pioche d'ordre du tour.<br/>\nSi vous avez révélé la carte d'ordre tour d'un joueur, gagnez 1 <span class=\"aether\">&AElig;</span> supplémentaire.\n</p>",
         "keywords": []
       }
     ]
@@ -129,7 +129,7 @@ export const mages: Mage[] = [
         "name": "Éclat de tourmaline",
         "id": "TourmalineShard",
         "cost": 0,
-        "effect": "<p>\nGagnez 1 <span class=\"aether\">&AElig;</span>.<br/>Un allié peut subir 1 dégât pour détruire une carte de sa main.\n</p>",
+        "effect": "<p>\nGagnez 1 <span class=\"aether\">&AElig;</span>.<br/>\nUn allié peut subir 1 dégât pour détruire une carte de sa main.\n</p>",
         "keywords": []
       }
     ]
@@ -148,7 +148,7 @@ export const mages: Mage[] = [
         "name": "Flash",
         "id": "Flare",
         "cost": 0,
-        "effect": "<p>\nRévélez la 1re carte de la pioche d'ordre du tour, puis replacez-la au dessus de cette pioche. Si vous avez révélé la carte d'ordre du tour d'un joueur, infligez 3 dégâts. Sinon 1 dégât.\n</p>",
+        "effect": "<p>\n<b>Lancer :</b> Révélez la 1re carte de la pioche d'ordre du tour, puis replacez-la au dessus de cette pioche. Si vous avez révélé la carte d'ordre du tour d'un joueur, infligez 3 dégâts. Sinon 1 dégât.\n</p>",
         "keywords": []
       }
     ]
