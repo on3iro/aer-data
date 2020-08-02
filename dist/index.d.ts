@@ -3,6 +3,7 @@ declare const _default: {
         ENG: import("aer-types").NormalizedData;
         FR: import("aer-types").NormalizedData;
         PL: import("aer-types").NormalizedData;
+        DE: import("aer-types").NormalizedData;
     };
     defaultSupplyCount: number;
     marketsetups: import("aer-types").MarketSetups;
