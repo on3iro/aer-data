@@ -2,11 +2,15 @@
   "name": "aer-data",
   "version": "2.3.1",
   "description": "Data for aeons-end-randomizer",
-  "main": "dist/index.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/index.js",
   "repository": "https://github.com/on3iro/aer-data",
   "author": "Theo Salzmann",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "tsc": "tsc -p tsconfig.json && tsc -p tsconfig.cjs.json"
+  },
   "keywords": [
     "aeons-end-ranzomizer",
     "aer",
