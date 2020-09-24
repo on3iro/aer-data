@@ -13,6 +13,7 @@ import { theDepthsData } from './theDepths'
 import { theNamelessData } from './theNameless'
 import { theVoidData } from './theVoid'
 import { warEternalData } from './warEternal'
+import { outcastsData } from './outcasts'
 
 const ENG: IExpansionData = {
   AE: aeonsEndData,
@@ -27,6 +28,7 @@ const ENG: IExpansionData = {
   TA: theAncientsData,
   TV: theVoidData,
   WE: warEternalData,
+  O: outcastsData,
   promos: promosData,
 }
 
