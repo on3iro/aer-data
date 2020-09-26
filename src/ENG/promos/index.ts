@@ -5,6 +5,7 @@ import { mages } from './mages'
 import { cards } from './cards'
 import { treasures } from './treasures'
 import { basicNemesisCards } from './basicNemesisCards'
+import { upgradedBasicNemesisCards } from './upgradedBasicNemesisCards'
 
 export const promosData: IExpansion = {
   id: 'promos',
@@ -15,4 +16,5 @@ export const promosData: IExpansion = {
   cards,
   treasures,
   basicNemesisCards,
+  upgradedBasicNemesisCards,
 }
