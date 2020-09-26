@@ -14,6 +14,7 @@ import { theNamelessData } from './theNameless'
 import { theVoidData } from './theVoid'
 import { warEternalData } from './warEternal'
 import { outcastsData } from './outcasts'
+import { returnToGraveholdData } from './returnToGravehold'
 
 const ENG: IExpansionData = {
   AE: aeonsEndData,
@@ -29,6 +30,7 @@ const ENG: IExpansionData = {
   TV: theVoidData,
   WE: warEternalData,
   O: outcastsData,
+  RTG: returnToGraveholdData,
   promos: promosData,
 }
 
